@@ -30,15 +30,17 @@ Las imagenes disponibles y las películas correpondientes en esta aplicación so
 ![lalaland](https://github.com/Sweetlord16/VC_P4/assets/113981994/de115662-4db5-43bf-a97c-221e850552c7)
 
 - Ryan Gosling in LaLaLand 2017
-![ryan-gosling-1655362981](https://github.com/Sweetlord16/VC_P4/assets/113981994/754f4bc9-8c8a-42b5-b256-d208e83397b6)![blade](https://github.com/Sweetlord16/VC_P4/assets/113981994/2259acfe-1ede-494c-aff1-264e91c19a07)
+  
+<img src="https://github.com/Sweetlord16/VC_P4/assets/113981994/73082b83-5d60-4966-8bf7-176fe9edfe64" width="300" height="200">
 
 - Ryan Gosling in Barbie 2023
-- 
-![blade](https://github.com/Sweetlord16/VC_P4/assets/113981994/aea1452b-b2b3-42f5-8bec-beb4bb5646ef)
+  
+<img src="https://github.com/Sweetlord16/VC_P4/assets/113981994/754f4bc9-8c8a-42b5-b256-d208e83397b6" width="300" height="200">
 
 - Ryan Gosling in Bladerunner 2049 2017
-- 
-![drive](https://github.com/Sweetlord16/VC_P4/assets/113981994/73082b83-5d60-4966-8bf7-176fe9edfe64)
+  
+<img src="https://github.com/Sweetlord16/VC_P4/assets/113981994/73082b83-5d60-4966-8bf7-176fe9edfe64" width="300" height="200">
+
 
 - Ryan Gosling in Drive 2011
 
