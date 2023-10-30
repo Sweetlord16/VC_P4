@@ -31,11 +31,11 @@ Las imagenes disponibles y las películas correpondientes en esta aplicación so
 
 - Ryan Gosling in LaLaLand 2017
   
-<img src="https://github.com/Sweetlord16/VC_P4/assets/113981994/73082b83-5d60-4966-8bf7-176fe9edfe64" width="300" height="200">
+<img src="https://github.com/Sweetlord16/VC_P4/assets/113981994/754f4bc9-8c8a-42b5-b256-d208e83397b6" width="300" height="200">
 
 - Ryan Gosling in Barbie 2023
   
-<img src="https://github.com/Sweetlord16/VC_P4/assets/113981994/754f4bc9-8c8a-42b5-b256-d208e83397b6" width="300" height="200">
+<img src="https://github.com/Sweetlord16/VC_P4/assets/113981994/aea1452b-b2b3-42f5-8bec-beb4bb5646ef" width="300" height="200">
 
 - Ryan Gosling in Bladerunner 2049 2017
   
