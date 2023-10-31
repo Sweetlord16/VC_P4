@@ -27,19 +27,18 @@ Este código combina la detección de rostros en tiempo real con la superposici�
 Las imagenes que se encontrará pertenecen a algunas de las películas en las que Ryan Gosling ha participado.
 Las imagenes disponibles y las películas correpondientes en esta aplicación son las siguientes:
 
-![lalaland](https://github.com/Sweetlord16/VC_P4/assets/113981994/de115662-4db5-43bf-a97c-221e850552c7)
-
+<img src="lalaland.jpg" width="300" height="200">
 - Ryan Gosling in LaLaLand 2017
   
-<img src="https://github.com/Sweetlord16/VC_P4/assets/113981994/754f4bc9-8c8a-42b5-b256-d208e83397b6" width="300" height="200">
+<img src="ryan-gosling-1655362981.jpg" width="300" height="200">
 
 - Ryan Gosling in Barbie 2023
   
-<img src="https://github.com/Sweetlord16/VC_P4/assets/113981994/aea1452b-b2b3-42f5-8bec-beb4bb5646ef" width="300" height="200">
+<img src="blade.png" width="300" height="200">
 
 - Ryan Gosling in Bladerunner 2049 2017
   
-<img src="https://github.com/Sweetlord16/VC_P4/assets/113981994/73082b83-5d60-4966-8bf7-176fe9edfe64" width="300" height="200">
+<img src="drive.png" width="300" height="200">
 
 
 - Ryan Gosling in Drive 2011
