@@ -22,35 +22,26 @@ Este código combina la detección de rostros en tiempo real con la superposici�
 3. Haz clic en el bloque de código y espera a que el algoritmo decida qué tipo de Ryan Gosling eres.
 4. ¡Disfruta de tu nueva identidad como Ryan Gosling y de su música!
 
-## Info Adicional
+## Información Adicional
 
-Las imagenes que se encontrará pertenecen a algunas de las películas en las que Ryan Gosling ha participado.
-Las imagenes disponibles y las películas correpondientes en esta aplicación son las siguientes:
+Las imágenes que se encontrarán pertenecen a algunas de las películas en las que Ryan Gosling ha participado.
+Las imágenes disponibles y las películas correspondientes en esta aplicación son las siguientes:
 
 <img src="lalaland.jpg" width="300" height="200">
-- Ryan Gosling in LaLaLand 2017
-  
+- Ryan Gosling en La La Land (2017)
+
 <img src="ryan-gosling-1655362981.jpg" width="300" height="200">
+- Ryan Gosling en Barbie (2023)
 
-- Ryan Gosling in Barbie 2023
-  
 <img src="blade.png" width="300" height="200">
+- Ryan Gosling en Blade Runner 2049 (2017)
 
-- Ryan Gosling in Bladerunner 2049 2017
-  
 <img src="drive.png" width="300" height="200">
+- Ryan Gosling en Drive (2011)
 
-
-- Ryan Gosling in Drive 2011
-
-## Canciones usadas:
+## Canciones utilizadas:
 
 - 'City of Stars' (Duet ft. Ryan Gosling, Emma Stone) - La La Land Original Motion Picture Soundtrack
 - Kavinsky - Nightcall
-- Ryan Gosling - I'm Just Ken (From Barbie The Album)
+- Ryan Gosling - I'm Just Ken (De Barbie: El Álbum)
 - you-look-lonely-i-can-fix-that edit
-
-
-
-
-
